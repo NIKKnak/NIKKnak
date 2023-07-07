@@ -2,7 +2,7 @@
 
 
 <div id="header" align="center" >
-  <img src="stend.jpg" width="400" height="200"/>
+  <img src="danger_snake.svg"/>
 
 
 
