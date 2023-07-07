@@ -2,7 +2,7 @@
 
 
 <div id="header" align="center" >
-  <img src="https://raw.githubusercontent.com/Warhammer40kGroup/wh40k-icon/c857da1962ca34fc0a135814e6f0fbd57a2babc6/src/svgs/adeptus-astartes.svg" width="1000" height="200"/>
+  <img src="https://raw.githubusercontent.com/Warhammer40kGroup/wh40k-icon/c857da1962ca34fc0a135814e6f0fbd57a2babc6/src/svgs/adeptus-astartes.svg" width="400" height="200"/>
 
 
 
