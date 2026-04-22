@@ -1,21 +1,4 @@
 
-
-
-<div id="header" align="center" >
-  <img src="danger_snake.svg"/>
-</div>
-
-
-<div id="header" align="center">
- 
-</div>
-
-
-<div id="header" align="center">
-  ______________________________________
-</div>
-
-
 <div id="header" align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 10px;">
   <img src="danger_snake.svg" />
   <span>______________________________________</span>
